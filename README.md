@@ -38,7 +38,8 @@ o	Regional performance (Top 10 states)
 o	Sales channel analysis  
 o	Product category insights  
 
-*(Screenshots will be added)*
+*(Screenshot added)*
+![Vrinda Store](https://github.com/user-attachments/assets/a1a447a1-9a29-4585-8554-a1b1895bb89b)
 
 ---
 
