@@ -50,6 +50,7 @@ o	Product category insights
 ---
 
 **Insights **
+
 o	Women contributed to 60% of total sales in 2022.  
 o	Maharashtra, Karnataka, and Uttar Pradesh were top-performing states.  
 o	Amazon and Flipkart were the highest contributing sales channels.  
