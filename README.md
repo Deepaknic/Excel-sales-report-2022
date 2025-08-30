@@ -4,12 +4,14 @@ Excel dashboard for sales data. Includes analysis of sales vs orders, top-perfor
 **Excel Sales Report 2022 - Vrinda Store**
 
 **Objective**
+
 Vrinda store wants to create an annual sales report for 2022 so they can understand their customers better and grow more sales in 2023.  
 This project provides a comprehensive Excel dashboard to visualize sales performance, customer insights, and business trends.
 
 ---
 
 **Business Questions Addressed**
+
 •	Compare the sales and orders using a single chart  
 •	Which month got the highest sales and orders?  
 •	Who purchased more – men or women in 2022?  
@@ -22,6 +24,7 @@ This project provides a comprehensive Excel dashboard to visualize sales perform
 ---
 
 **Tools Used**
+
 	Microsoft Excel  
 	Pivot Tables  
 	Charts  
@@ -31,6 +34,7 @@ This project provides a comprehensive Excel dashboard to visualize sales perform
 ---
 
 **Dashboard Overview**
+
 The dashboard provides:  
 o	Yearly sales and order trends  
 o	Demographic breakdown (gender & age)  
@@ -44,6 +48,7 @@ o	Product category insights
 ---
 
 **How to Use**
+
 1. Download the Excel file from this repository.  
 2. Open in Microsoft Excel (2016 or later recommended).  
 3. Navigate through the dashboard to explore insights.  
@@ -52,9 +57,16 @@ o	Product category insights
 
 **Insights **
 
-o	Women contributed to 60% of total sales in 2022.  
+o	Women contributed more than 60% of total sales in 2022.  
+<img width="697" height="408" alt="image" src="https://github.com/user-attachments/assets/1a2f1b6d-774d-4a80-a31f-0cf8380959fe" />
+
 o	Maharashtra, Karnataka, and Uttar Pradesh were top-performing states.  
-o	Amazon and Flipkart were the highest contributing sales channels.  
+<img width="708" height="416" alt="image" src="https://github.com/user-attachments/assets/29b0cf84-d281-41b6-a4c1-c0b12f18b3ee" />
+
+o	Amazon and Myntra were the highest contributing sales channels. 
+<img width="636" height="416" alt="image" src="https://github.com/user-attachments/assets/428f3361-70e1-4261-83c8-7e4eea8240cb" />
+
+
 
 ---
 
